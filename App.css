@@ -1,0 +1,20 @@
+
+.App {
+    background-color: #1a001a; /* dark purple */
+    color: white;
+    font-family: 'Arial Black', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .person-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+  }
+  

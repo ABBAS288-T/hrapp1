@@ -1,0 +1,21 @@
+
+.person-card {
+    background-color: #440044; /* purple */
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 15px;
+    width: 250px;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .person-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.7);
+  }
+  
+  .person-animal {
+    font-size: 3rem;
+  }
+  

@@ -1,0 +1,11 @@
+
+.footer {
+    width: 100%;
+    background-color: #000000; /* black */
+    padding: 10px;
+    text-align: center;
+    font-size: 1rem;
+    color: #ffccff; /* light purple text */
+    box-shadow: 0 -4px 10px rgba(0,0,0,0.5);
+  }
+  

@@ -1,0 +1,14 @@
+
+
+.header {
+    width: 100%;
+    background-color: #330033; /* darker purple */
+    padding: 20px;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+  }
+  
